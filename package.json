@@ -1,0 +1,23 @@
+{
+  "name": "phaser-mmorpg",
+  "version": "1.0.0",
+  "description": "Zenva course follow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/phaser-mmorpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fingerskier/phaser-mmorpg/issues"
+  },
+  "homepage": "https://github.com/fingerskier/phaser-mmorpg#readme",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  }
+}
