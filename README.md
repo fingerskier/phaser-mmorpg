@@ -1,6 +1,10 @@
 # phaser-mmorpg
 Zenva course follow
 
+## Progress
+
+  Lesson 14/21, title-scene-5
+
 
 signup
 login
@@ -49,6 +53,17 @@ After login
       send player object data
       send item and monster data
       send player object to existing players
+
+## Scenes
+  - Boot: load assets
+  - Title: title, play-button; character selection
+  - Game: main logic
+  - UI: gold count
+
+## Classes
+  - Player: game object & input
+  - Chest: game object, quantity
+  - 
 
 ## Resources
 
