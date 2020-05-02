@@ -74,3 +74,7 @@ photonstorm.github.io/phaser3-docs
 phaser.discourse.group
 
 animate.css
+Arrow keys move
+Mouse looks
+Top down main game
+Side scroller inner game
