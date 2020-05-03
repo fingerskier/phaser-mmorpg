@@ -3,7 +3,7 @@ import GameScene from './scene/Game.js'
 import TitleScene from './scene/Title.js'
 import UIScene from './scene/UI.js'
 
-import Player from './class/Player.js'
+import Player from './class/player/Player.js'
 import Chest from './class/Chest.js'
 
 const viewport = {

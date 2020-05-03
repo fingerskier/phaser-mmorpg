@@ -1,3 +1,5 @@
+import {EVENT} from '../EventTypes.js'
+
 export default class UIScene extends Phaser.Scene {
   constructor(){
     super('UI')
@@ -21,7 +23,7 @@ export default class UIScene extends Phaser.Scene {
 
   setupEvents(){
     // listen for updateScore event
-    this.gameScene.events.on('updateScore', score=>{
+    this.gameScene.events.on(EVENT.UPDATE.SCORE, score=>{
       this.scoreText.setText(`Coins: ${score}`)
     })
   }
